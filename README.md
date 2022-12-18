@@ -14,4 +14,7 @@ The steps of my research are as follows:
 ## Now, where am I?
 1. Selected task: sentiment analysis in `rotten_tomatoes` dataset
 2. Selected models: `textattack/xlnet-base-cased-rotten-tomatoes` and `textattack/roberta-base-rotten-tomatoes`
-3. Selected attack method: 
+3. Selected attack method: `BAEGarg2019`
+4. :)
+5. Compute attack transferability from `textattack/xlnet-base-cased-rotten-tomatoes` to `textattack/roberta-base-rotten-tomatoes`
+
